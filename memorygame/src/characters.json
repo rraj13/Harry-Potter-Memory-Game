@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Minerva Mcgonagall",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos002.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Harry Potter",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos007.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Ron Weasley",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/poa007.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Hermoine Granger",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos011.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Albus Dumbledore",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos003.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Severus Snape",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos005.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Sirius Black",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/poa019.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Draco Malfoy",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/poa065.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Neville Longbottom",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/poa101.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "Cho Chang",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/newavatar2.png",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "Remus Lupin",
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/poa078.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "Dobby the Elf", 
+        "image": "https://harrypotterfanzone.com/wp-content/2009/01/cos009.jpg",
+        "isClicked": false
+    }
+]

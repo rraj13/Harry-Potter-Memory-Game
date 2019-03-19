@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+
+@media only screen and (min-width: 320px) {
+    .jumbotron {
+        margin-top: 80px;
+        height: 400px;
+        width: 100%;
+    
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        align-items: center;
+    
+        font-family: 'ZCOOL XiaoWei', serif;
+        font-size: 20px;
+        color: #fff;
+    
+        background-image: url("../../images/hogwarts.jpg");
+        background-size: cover;
+    }
+    
+    .instructions-div {
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .jumbotron {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .jumbotron {
+        font-size: 30px;
+    }
+}
+
+
+
