@@ -2,6 +2,8 @@
 
 Live Link: https://rraj13.github.io/Harry-Potter-Memory-Game/
 
+![alt text](HarryPotterMemoryScreenshot.png "Harry Potter Memory Game Screenshot")
+
 ## Introduction
 Hey there! Here I have created a Harry Potter-inspired Memory Game using React!. The goal of the game is to click each of the avatars only once, remembering which ones you have previously clicked. If a user clicks a character already clicked, the game restarts and the current score is set to 0. Highest score is also monitored and changed depending on the end score of the current game. Finally, to make the game more challenging, on each click the avatars are shuffled on the screen. 
 
