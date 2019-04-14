@@ -14,7 +14,7 @@ JavaScript<br/>
 React<br/>
 
 ## General Methodology
-This was my first project utilizing React on the frontend. Each part of interface was divided into components, following the React standard, and component states were monitored and manipulated in response to user events. Specifically, the app had states for current score, highest score and status, which was used to let the user know if they earned a point or lost the game. In addition, each avatar had a state of clicked or not clicked stored as a boolean, and the score state was updated depending on this click state. 
+This was my first project utilizing React on the frontend. Each part of the interface was divided into components, following the React standard, and component states were monitored and manipulated in response to user events. Specifically, the app had states for current score, highest score and status, which was used to let the user know if they earned a point or lost the game. In addition, each avatar had a state of clicked or not clicked stored as a boolean, and the score state was updated depending on this click state. 
 
 In building the app, I ran into some issues creating and using functions across various interface components, especially how and where to declare and manipulate states. After a bit of research and help from colleagues, I was able to master imports and props in order to successfully create the game. 
 
